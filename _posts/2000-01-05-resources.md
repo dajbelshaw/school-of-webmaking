@@ -39,7 +39,7 @@ Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 >>Social connection — learning is meaningful when it is part of valued social relationships and shared practice, culture, and identity. 
 >
 
--- Henry Jenkin's [Connected Learning](http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html) 
+-- Henry Jenkins' [Connected Learning](http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html) 
 
 ### Openness 
 
